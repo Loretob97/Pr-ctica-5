@@ -1,0 +1,17 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="vasija loreto copia.x3d" idInFile="-1" filename="vasija loreto copia.x3d" visible="1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" solidColor="192 192 192 255" wireColor="64 64 64 255" pointSize="3" pointColor="252 233 79 255" boxColor="234 234 234 255">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup>
+  <MLRaster label="C:/Users/Loreto/Music/vasijas copia/Textura vasija copia.png">
+   <VCGCamera CameraType="0" BinaryData="0" LensDistortion="0 0" CenterPx="960 433" TranslationVector="-0.0310993 -0.0147495 -249.85 1" PixelSizeMm="0.0369161 0.0369161" ViewportPx="1920 867" FocalMm="44.453098" RotationMatrix="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 "/>
+   <Plane fileName="Textura vasija copia.png" semantic="1"/>
+  </MLRaster>
+ </RasterGroup>
+</MeshLabProject>
